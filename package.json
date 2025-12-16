@@ -1,6 +1,6 @@
 {
-  "name": "chainlinkjs",
-  "version": "1.0.0",
+  "name": "@raac/chainlinkjs",
+  "version": "1.0.1",
   "description": "Chainlink JavaScript SDK for Ethers v6",
   "homepage": "https://github.com/RegnumAurumAcquisitionCorp/chainlinkjs#readme",
   "bugs": {
