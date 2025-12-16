@@ -17,5 +17,15 @@ const ReturnType = {
     bytes: 'bytes',
   }
 
+const Location = {
+  Inline: 0,
+  Remote: 1,
+  DONHosted: 2
+};
 
-export { FulfillmentCode, ReturnType };
+const CodeLanguage = {
+  JavaScript: 0,
+};
+
+
+export { FulfillmentCode, ReturnType, Location, CodeLanguage };
